@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\bin\Debug\net8.0-windows\tekmi_ciftmi_projesi.exe
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\bin\Debug\net8.0-windows\tekmi_ciftmi_projesi.deps.json
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\bin\Debug\net8.0-windows\tekmi_ciftmi_projesi.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\bin\Debug\net8.0-windows\tekmi_ciftmi_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\bin\Debug\net8.0-windows\tekmi_ciftmi_projesi.pdb
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\refint\tekmi_ciftmi_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.pdb
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\tekmi_ciftmi_projesi.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\tekmi_ciftmi_projesi\tekmi_ciftmi_projesi\obj\Debug\net8.0-windows\ref\tekmi_ciftmi_projesi.dll
