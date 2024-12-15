@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\bin\Debug\net8.0-windows\indirimli_urun_projesi.exe
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\bin\Debug\net8.0-windows\indirimli_urun_projesi.deps.json
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\bin\Debug\net8.0-windows\indirimli_urun_projesi.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\bin\Debug\net8.0-windows\indirimli_urun_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\bin\Debug\net8.0-windows\indirimli_urun_projesi.pdb
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\refint\indirimli_urun_projesi.dll
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.pdb
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\indirimli_urun_projesi.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\indirimli_urun_projesi\indirimli_urun_projesi\obj\Debug\net8.0-windows\ref\indirimli_urun_projesi.dll
